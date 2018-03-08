@@ -12,8 +12,8 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "Pat Loves Data"
 title_separator          : "-"
-name                     : "Patrick Nadeau"
-description              : "An amazing website."
+name                     : "Patrick Nadeau, Ph.D."
+description              : "Experimental Physicist | Data Science and Machine Learning Enthusiast"
 url                      : "https://pnads.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "pnads/pnads.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -69,7 +69,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "patrick_nadeau"
 facebook:
   username               :
   app_id                 :
@@ -91,11 +91,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Patrick Nadeau, Ph.D."
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Experimental Physicist | Data Science and Machine Learning Enthusiast"
+  location         : "Kingston, ON, Canada"
+  email            : "patrick.a.nadeau@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -104,19 +104,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "pnads"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "patrick-a-nadeau" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          :
+  twitter          : "patrick_nadeau"
   vine             :
   weibo            :
   xing             :
